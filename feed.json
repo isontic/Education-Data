@@ -2,12 +2,14 @@
   {
     "userId": 1,
     "id": 2,
+    "icon": "Icons.label",
     "title": "Back to School Dance 8:00 p.m - 11:00 p.m",
     "body": "Aug. 24, 2018"
   },
   {
     "userId": 1,
     "id": 1,
+    "icon": "Icons.label",
     "title": "Fist Day of School - First Day Schedule",
     "body": "Hello and welocme to Redwood! Aug. 22,2018 will be your first day of school!"
   }
