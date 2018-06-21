@@ -2,54 +2,63 @@
   {
     "userId": 1,
     "id": 9,
+    "img": "",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 8,
+    "img": "",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 7,
+    "img": "",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 6,
+    "img": "",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 5,
+    "img": "",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 4,
+    "img": "https://i.imgur.com/xeey8Q7.jpg",
     "title": "Test Post",
     "body": "Test Post Body"
   },
   {
     "userId": 1,
     "id": 3,
+    "img": "",
     "title": "This is a super large post!",
     "body": "This is a super large post! This is a super large post! This is a super large post!"
   },
   {
     "userId": 1,
     "id": 2,
+    "img": "",
     "title": "Back to School Dance 8:00 p.m - 11:00 p.m",
     "body": "Aug. 24, 2018"
   },
   {
     "userId": 1,
     "id": 1,
+    "img": "",
     "title": "Fist Day of School - First Day Schedule",
     "body": "Hello and welocme to Redwood! Aug. 22,2018 will be your first day of school!"
   }
