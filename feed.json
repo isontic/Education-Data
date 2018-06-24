@@ -1,59 +1,17 @@
 [
   {
     "userId": 1,
-    "id": 9,
-    "img": "",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "img": "",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "img": "",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "img": "https://i.imgur.com/MCnieVg.jpg",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "img": "",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "img": "https://i.imgur.com/xeey8Q7.jpg",
-    "title": "Test Post",
-    "body": "Test Post Body"
-  },
-  {
-    "userId": 1,
     "id": 3,
     "img": "",
-    "title": "This is a super large post!",
-    "body": "This is a super large post! This is a super large post! This is a super large post!"
+    "title": "Back to School Dance 8:00 p.m - 11:00 p.m",
+    "body": "Aug. 24, 2018"
   },
   {
     "userId": 1,
     "id": 2,
     "img": "",
-    "title": "Back to School Dance 8:00 p.m - 11:00 p.m",
-    "body": "Aug. 24, 2018"
+    "title": "Monday/Tuesday/Friday schedule",
+    "body": "Wednesday is a Monday schedule - Thursday is a Tuesday schedule - Friday is a Friday schedule"
   },
   {
     "userId": 1,
