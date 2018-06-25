@@ -1,9 +1,28 @@
 {
   "releases": {
-    "0.0.1": [
+    "0.0.8": [
+      
+    ],
+    "0.0.7": [
       "[Fixed] Fixed Feed Screen spacing",
       "[Fixed] Remove Tv Tab for now",
       "[Improved] Feed loading time is now faster."
-    ]
+    ],
+    "0.0.6": [
+      "[New] Changelog viewer",
+      "[Fixed] Small Bugs",
+      "[Improved] Improved app loading speed."
+    ],
+    "0.0.5": [
+      "[New] Added School map",
+      "[Improved] Images and icons now load faster",
+      "[Improved] Feed Cards now render 2X faster."
+    ],
+    "0.0.4": [
+      "[New] About Page to give credit to the creators :D"
+    ],
+    "0.0.3": [
+      "[New] Added Redwood TV Feed (Links are broken still :(..)"
+    ],
   }
 }
