@@ -1,8 +1,5 @@
 {
   "releases": {
-    "1.2.4-beta5": [
-
-    ],
     "0.0.1": [
       "[Fixed] Fixed Feed Screen spacing",
       "[Fixed] Remove Tv Tab for now",
