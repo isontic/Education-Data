@@ -1,31 +1,56 @@
-{
-  "releases": {
-    "0.0.8": [
-      
-    ],
-    "0.0.7": [
-      "[Fixed] Fixed Feed Screen spacing",
+[
+  {
+      "name":"",
+      "notes":[
+         "[Fixed] Fixed Feed Screen spacing",
       "[Fixed] Remove Tv Tab for now",
       "[Improved] Feed loading time is now faster."
-    ],
-    "0.0.6": [
-      "[New] Changelog viewer",
+      ],
+      "pub_date":"2018-06-10T19:02:17Z",
+      "version":"0.0.7"
+   },
+  {
+      "name":"",
+      "notes":[
+         "[New] Changelog viewer",
       "[Fixed] Small Bugs",
       "[Improved] Improved app loading speed."
-    ],
-    "0.0.5": [
-      "[New] Added School map",
+      ],
+      "pub_date":"2018-06-10T19:02:17Z",
+      "version":"0.0.6"
+   },
+  {
+      "name":"",
+      "notes":[
+         "[New] Added School map",
       "[Improved] Images and icons now load faster #1",
       "[Improved] Feed Cards now render 2X faster."
-    ],
-    "0.0.4": [
-      "[New] About Page to give credit to the creators :D"
-    ],
-    "0.0.3": [
-      "[New] Added Redwood TV Feed (Links are broken still :(..)"
-    ],
-    "0.0.2": [
-      "[New] First Android app test!"
-    ]
-  }
-}
+      ],
+      "pub_date":"2018-06-10T19:02:17Z",
+      "version":"0.0.5"
+   },
+  {
+      "name":"",
+      "notes":[
+         "[New] About Page to give credit to the creators :D"
+      ],
+      "pub_date":"2018-06-08T19:02:17Z",
+      "version":"0.0.4"
+   },
+  {
+      "name":"",
+      "notes":[
+         "[New] Added Redwood TV Feed (Links are broken still :(..)"
+      ],
+      "pub_date":"2018-06-06T19:02:17Z",
+      "version":"0.0.3"
+   },
+   {
+      "name":"",
+      "notes":[
+         "[New] First Android app test!"
+      ],
+      "pub_date":"2018-06-05T16:28:38Z",
+      "version":"0.0.2"
+   }
+]
