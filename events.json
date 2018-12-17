@@ -1,23 +1,23 @@
 [
   {
     "id": 3,
-    "name": "Sports game 3",
-    "date": "MON, JULY 9th",
-    "time": "10:00 AM",
-    "location": "Big Gym"
+    "name": "Club Day",
+    "date": "Wed, Jan 30th",
+    "time": "11:17 AM",
+    "location": "Center Field"
   },
   {
     "id": 2,
-    "name": "Sports game 2",
-    "date": "MON, JULY 9th",
-    "time": "10:00 AM",
-    "location": "Big Gym"
+    "name": "Minimum Day Wednesday Schedule",
+    "date": "Wed, Feb. 6th",
+    "time": "All Day",
+    "location": "Redwood"
   },
   {
     "id": 1,
-    "name": "Sports game 1",
-    "date": "MON, JULY 9th",
-    "time": "10:00 AM",
+    "name": "Rally",
+    "date": "Thu, Feb. 14th",
+    "time": "11:12 AM",
     "location": "Big Gym"
   }
 ]
