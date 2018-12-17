@@ -2,21 +2,21 @@
   {
     "id": 3,
     "name": "Sports game 3",
-    "date": "11/10/19",
+    "date": "MON, JULY 9th",
     "time": "10:00 AM",
     "location": "Big Gym"
   },
   {
     "id": 2,
     "name": "Sports game 2",
-    "date": "11/10/19",
+    "date": "MON, JULY 9th",
     "time": "10:00 AM",
     "location": "Big Gym"
   },
   {
     "id": 1,
     "name": "Sports game 1",
-    "date": "11/10/19",
+    "date": "MON, JULY 9th",
     "time": "10:00 AM",
     "location": "Big Gym"
   }
