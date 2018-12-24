@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "name": "Club Day",
+    "date": "Wed, Jan 30th",
+    "time": "11:17 AM",
+    "location": "Center Field"
+  },
+  {
+    "id": 2,
+    "name": "Minimum Day Wednesday Schedule",
+    "date": "Wed, Feb. 6th",
+    "time": "All Day",
+    "location": "Redwood"
+  },
+  {
+    "id": 1,
+    "name": "Rally",
+    "date": "Thu, Feb. 14th",
+    "time": "11:12 AM",
+    "location": "Big Gym"
+  }
+]
