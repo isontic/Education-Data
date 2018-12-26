@@ -1,23 +1,23 @@
 [
   {
     "id": 3,
-    "name": "Club Day",
-    "date": "Wed, Jan 30th",
-    "time": "11:17 AM",
-    "location": "Center Field"
+    "name": "Monday Schedule-Periods 1-7",
+    "date": "Wed, Jan 9",
+    "time": "All Day",
+    "location": "Tam"
   },
   {
     "id": 2,
-    "name": "Minimum Day Wednesday Schedule",
-    "date": "Wed, Feb. 6th",
-    "time": "All Day",
-    "location": "Redwood"
+    "name": "Tam Boosters Meeting",
+    "date": "Wed, Jan. 16",
+    "time": "7:00pm–8:30pm",
+    "location": "Tam Library"
   },
   {
     "id": 1,
-    "name": "Rally",
-    "date": "Thu, Feb. 14th",
-    "time": "11:12 AM",
-    "location": "Big Gym"
+    "name": "Freshman Advisory",
+    "date": "Wed, Jan. 16",
+    "time": "9:45pm–10:45pm",
+    "location": "Tam"
   }
 ]
