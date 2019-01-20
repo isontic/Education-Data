@@ -1,23 +1,44 @@
 [
   {
+    "id": 6,
+    "name": "Baseball (New Players) Informational Meeting",
+    "date": "Tue, Jan. 22nd",
+    "time": "After School",
+    "location": "Baseball Field"
+  },
+  {
+    "id": 5,
+    "name": "Sophomore School Fundraiser",
+    "date": "Wed, Jan. 23rd",
+    "time": "All Day",
+    "location": "Pizza Antica"
+  },
+  {
+    "id": 4,
+    "name": "Winter Rally",
+    "date": "Fri, Jan. 25th",
+    "time": "",
+    "location": "Tam High"
+  },
+  {
     "id": 3,
-    "name": "Club Day",
-    "date": "Wed, Jan 30th",
-    "time": "11:17 AM",
-    "location": "Center Field"
+    "name": "Winter One-Acts",
+    "date": "Jan. 22nd - Jan. 27th",
+    "time": "7pm",
+    "location": "Caldwell Theatre"
   },
   {
     "id": 2,
-    "name": "Minimum Day Wednesday Schedule",
-    "date": "Wed, Feb. 6th",
-    "time": "All Day",
-    "location": "Redwood"
+    "name": "TUHSD Board Meeting",
+    "date": "Tue, Jan. 29th",
+    "time": "6pm",
+    "location": "Kreps Conference Room"
   },
   {
     "id": 1,
-    "name": "Rally",
-    "date": "Thu, Feb. 14th",
-    "time": "11:12 AM",
-    "location": "Big Gym"
+    "name": "Winter One-Acts",
+    "date": "Jan. 29th - Jan. 31st",
+    "time": "7pm",
+    "location": "Caldwell Theatre"
   }
 ]
