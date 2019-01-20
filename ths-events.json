@@ -1,23 +1,44 @@
 [
   {
-    "id": 3,
-    "name": "Monday Schedule-Periods 1-7",
-    "date": "Wed, Jan 9",
+    "id": 6,
+    "name": "Baseball (New Players) Informational Meeting",
+    "date": "Tue, Jan. 22nd",
+    "time": "After School",
+    "location": "Baseball Field"
+  },
+  {
+    "id": 5,
+    "name": "Sophomore School Fundraiser",
+    "date": "Wed, Jan. 23rd",
     "time": "All Day",
-    "location": "Tam"
+    "location": "Pizza Antica"
+  },
+  {
+    "id": 4,
+    "name": "Winter Rally",
+    "date": "Fri, Jan. 25th",
+    "time": "",
+    "location": "Tam High"
+  },
+  {
+    "id": 3,
+    "name": "Winter One-Acts",
+    "date": "Jan. 22nd - Jan. 27th",
+    "time": "7pm",
+    "location": "Caldwell Theatre"
   },
   {
     "id": 2,
-    "name": "Tam Boosters Meeting",
-    "date": "Wed, Jan. 16",
-    "time": "7:00pm–8:30pm",
-    "location": "Tam Library"
+    "name": "TUHSD Board Meeting",
+    "date": "Tue, Jan. 29th",
+    "time": "6pm",
+    "location": "Kreps Conference Room"
   },
   {
     "id": 1,
-    "name": "Freshman Advisory",
-    "date": "Wed, Jan. 16",
-    "time": "9:45pm–10:45pm",
-    "location": "Tam"
+    "name": "Winter One-Acts",
+    "date": "Jan. 29th - Jan. 31st",
+    "time": "7pm",
+    "location": "Caldwell Theatre"
   }
 ]
