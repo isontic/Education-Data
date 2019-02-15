@@ -1,9 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Rally",
-    "date": "Thu, Feb. 14th",
-    "time": "11:12 AM",
-    "location": "Big Gym"
+    "name": "Monday/Tuesday/Friday Schedule",
+    "date": "Mar. 20, 2019",
+    "time": "All Day",
+    "location": "Redwood"
+  },
+  {
+    "id": 2,
+    "name": "Thursday before Minimum Day Friday Schedule",
+    "date": "Mar. 21, 2019",
+    "time": "All Day",
+    "location": "Redwood"
+  },
+  {
+    "id": 3,
+    "name": "Open House / Silent Auction",
+    "date": "Mar. 21, 2019",
+    "time": "6:30 PM - 8:00 PM",
+    "location": "Redwood"
+  },
+  {
+    "id": 4,
+    "name": "Minimum Day Friday Schedule",
+    "date": "Mar. 22, 2019",
+    "time": "All Day",
+    "location": "Redwood"
+  },
+  {
+    "id": 5,
+    "name": "PTSA Parent Ed Event - Un-masking: What our students tell us",
+    "date": "Mar. 26, 2019",
+    "time": "7:00 PM - 8:30 PM",
+    "location": "Small gym"
   }
 ]
