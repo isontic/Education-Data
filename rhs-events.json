@@ -33,5 +33,20 @@
     "date": "Mar. 26, 2019",
     "time": "7:00 PM - 8:30 PM",
     "location": "Small gym"
+  },
+  {
+    "id": 6,
+    "name": "CAASPP Testing",
+    "date": "Apr. 1-2, 2019",
+    "time": "8:00 AM - 9:00 AM",
+    "location": "Redwood"
+  },
+  {
+    "id": 7,
+    "name": "Food Day",
+    "date": "Apr. 5, 2019",
+    "time": "Lunch",
+    "location": "Redwood"
   }
+  
 ]
