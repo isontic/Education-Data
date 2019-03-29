@@ -25,3 +25,45 @@ website: https://isontic.com/Redwood
 - Fixed Special Day screen issue where it would still show up even if it wasn’t enabled.
 - Today Tab now refreshes server info every 1 minute. (Instead of never)
 - Updated admin menu for new database layout.
+
+## 5.2.0 (2019-03-18T05:33:00.150Z)
+
+### New
+- A new refreshed look for the Today Tab UI with more helpful features.
+- New Countdown that shows how much time you have left in your current class.
+- Added AP Exam Schedule! (On Bells Tab under “Special Days”)
+- Added a new Chat icon to the Today tab so you can join a room easier.
+- Added a new chat room “Meme Z0NE” for memes. (only photos)
+- Added timestamps to Chat messages.
+- Added image support in Chat.
+### Changes
+- Profile photos are now formatted in a square, and you can now crop the profile photo before you add it.
+- Changed how the due date is formatted and how it is stored on our servers.
+- Countdowns now only show up if they are active. 
+- Improved the design of the Planner tasks UI.
+- Improved the Planner Task editor.
+- Added Grade in profile. (In Chat if you tap on a students profile)
+- Changed Account Class settings icon.
+- Fixed an issue where haptic feedback wouldn't work in Faculty Directory.
+
+## 5.1.0 (2019-03-05T05:33:00.150Z)
+
+### New
+- Added Redwood Chat Room! (You can now chat with other students with the school). 
+- Added Profile Photos! (They will be visible in the Chat Room).
+- Added Guest mode. (You can try out the app without creating an account). 
+
+### Changes
+- “Settings” page has been changed to “Account”, we also changed how it looks and made it easer to use.
+- Fixed a memory leak that would slow the app down if you had it open for a long period of time.
+- Improved ‘Minutes to end’ on Current class popup.
+
+## 5.0.4 (2019-02-20T05:33:00.150Z)
+
+### New
+- New School Planner! You can now keep track of Homework in the app! (Tap on the ‘Book’ icon on the top of the Today, Bells tab.)
+- Added a loading indicator when Logging in/Signing Up. (Sorry about not having that sooner!)
+- Added support for Minimum Day schedule for the Today Tab.
+
+### Changes
+- Speed improvements.
