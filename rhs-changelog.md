@@ -4,6 +4,24 @@ website: https://isontic.com/Redwood
 
 # Redwood
 
+## 5.2.3 (2019-03-29T05:33:00.150Z)
+
+### New
+- Support for iOS 12.2
+- Added support for Spring Finals week! (Note: This will only show up in the app on Finals week!)
+- Added California State Testing Schedule Link on Bell’s Tab.
+- When you create an account now it automatically brings you into the app! No need to login again!
+- You can now change your isontic account password!
+
+### Changes
+- Improvements of the Countdown system.
+- Improvements to the Task editor UI.
+- Improvements to Chat UI.
+- Updated cards on Events page to match the rest of the app.
+- Updated card on Bells Tab to match the rest of the app.
+- Update more icons to the new look.
+- Removed Task action popup. Swipe to use quick actions now.
+
 ## 5.2.2 (2019-03-25T05:33:00.150Z)
 
 ### General
