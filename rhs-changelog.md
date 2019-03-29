@@ -13,7 +13,7 @@ website: https://isontic.com/Redwood
 - Added a way to submit bug reports. (Help us catch them pesky bugs!)
 - You can now slide Tasks in the Planner for quick actions.
 
-### Fix
+### Changes
 
 - Fixed issue where when a student sent a photo in there profile it wouldn’t show a grade.
 - Fixed Special Day screen issue where it would still show up even if it wasn’t enabled.
