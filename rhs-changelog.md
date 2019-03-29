@@ -6,7 +6,7 @@ website: https://isontic.com/Redwood
 
 ## 5.2.2 (2019-03-25T05:33:00.150Z)
 
-### Fixs
+### General
 
 - General bug fixes and improvements.
 
