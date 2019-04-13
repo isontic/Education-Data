@@ -4,6 +4,22 @@ website: https://isontic.com/Redwood
 
 # Redwood
 
+## 5.2.4 (2019-04-13T05:33:00.150Z)
+
+### New
+- New “What’s new” page.
+
+### Changes
+- Fixed bug that work cause the Today tab to be blank.
+- Fixed a bug that would crash the app when opened.
+- Fixed Chat and Planner. (Showed Red or blank screen)
+- Changed how dates where stored on the servers. (Chats had to be cleared because of this but your Tasks should be fine!)
+- Removed ads from app.
+- You can now request to reset your password without leaving the app.
+- What's new page now shows a full list of the changes in each version.
+- Small Profile Page UI improvements.
+- Small UI update to the About page.
+
 ## 5.2.3 (2019-03-29T05:33:00.150Z)
 
 ### New
@@ -57,7 +73,7 @@ website: https://isontic.com/Redwood
 ### Changes
 - Profile photos are now formatted in a square, and you can now crop the profile photo before you add it.
 - Changed how the due date is formatted and how it is stored on our servers.
-- Countdowns now only show up if they are active. 
+- Countdowns now only show up if they are active.
 - Improved the design of the Planner tasks UI.
 - Improved the Planner Task editor.
 - Added Grade in profile. (In Chat if you tap on a students profile)
@@ -67,9 +83,9 @@ website: https://isontic.com/Redwood
 ## 5.1.0 (2019-03-05T05:33:00.150Z)
 
 ### New
-- Added Redwood Chat Room! (You can now chat with other students with the school). 
+- Added Redwood Chat Room! (You can now chat with other students with the school).
 - Added Profile Photos! (They will be visible in the Chat Room).
-- Added Guest mode. (You can try out the app without creating an account). 
+- Added Guest mode. (You can try out the app without creating an account).
 
 ### Changes
 - “Settings” page has been changed to “Account”, we also changed how it looks and made it easer to use.
