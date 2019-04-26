@@ -4,6 +4,26 @@ website: https://isontic.com/Redwood
 
 # Redwood
 
+## 5.2.5 (2019-04-26T05:33:00.150Z)
+
+### New
+- New sizing optimization for larger Phones and Tablets.
+- Added Spring Finals Week Schedule to Bells Tab.
+- New timestamp system that better displays Chat messages send timestamp and also Planner due dates.
+- New and improved Feedback/Bug reporting System. (You can now submit feedback/bug reports in the app. You can also attach a screenshot to your report!)
+- Added descriptions to Account pages on the More Tab.
+- Added a way to easily access Phones App Settings on the Account page.
+
+### Changes
+- Added back swiping between tabs!
+- Fixed navigation bar bubble sizing.
+- Updated Class Instagram page cards design.
+- Updated cards on Today tab to be responsive to device sizes.
+- Improved the Guest Mode setup process. 
+- Removed profile photo on More Tab.
+- Updates to the Spring final schedule.
+
+
 ## 5.2.4 (2019-04-13T05:33:00.150Z)
 
 ### New
