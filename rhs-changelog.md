@@ -4,6 +4,19 @@ website: https://isontic.com/Redwood
 
 # Redwood
 
+## 5.2.6 (2019-05-8T05:33:00.150Z)
+
+Last update of the 2018-19 School year!
+
+### New
+- Added a more detailed countdown if you tap on the countdown event.
+
+### Changes
+- Small Finals Schedule fixes.
+- Improvements on Finals wording on Bells Tab.
+- Fixed date issue it would set a due date even if you didn’t select one in Planner.
+- Fixed some small bugs with the Planner editor.
+
 ## 5.2.5 (2019-04-26T05:33:00.150Z)
 
 ### New
@@ -19,7 +32,7 @@ website: https://isontic.com/Redwood
 - Fixed navigation bar bubble sizing.
 - Updated Class Instagram page cards design.
 - Updated cards on Today tab to be responsive to device sizes.
-- Improved the Guest Mode setup process. 
+- Improved the Guest Mode setup process.
 - Removed profile photo on More Tab.
 - Updates to the Spring final schedule.
 
