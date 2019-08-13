@@ -4,7 +4,7 @@ website: https://isontic.com/Redwood
 
 # Redwood
 
-## 5.2.6 (2019-05-8T05:33:00.150Z)
+## 5.2.6 (2019-05-7T05:33:00.150Z)
 
 Last update of the 2018-19 School year!
 
