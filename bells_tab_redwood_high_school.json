@@ -1,5 +1,5 @@
 {
-  "redwood_high_school": {
+    "school": 'redwood_high_school',
     "nsw": {
       "monday": {
         "title": "Monday",
@@ -538,5 +538,5 @@
         "key": "b_o_a_minimum_day_bells"
       }
     ]
-  }
+  
 }
