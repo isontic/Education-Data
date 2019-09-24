@@ -1,9 +1,10 @@
 {
     "school": "redwood_high_school",
-    "times": {
-      "Mon": {
-        "title": "Monday",
-        "key": "Mon",
+    "times": [
+        {
+        "key": "Mon_Tue_Fri",
+        "WeekDayTime": "2012-02-27 11:43:00",
+        "WeekDayTimeEnd": "2012-02-27 12:18:00",
         "times": [
           {
             "period": 0,
@@ -64,14 +65,165 @@
             "key": "forth_period",
             "start_time": "2012-02-27 10:55:00",
             "end_time": "2012-02-27 11:42:00"
+          },
+          {
+            "period": 11,
+            "key": "lunch",
+            "start_time": "2012-02-27 11:43:00",
+            "end_time": "2012-02-27 12:17:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 12:18:00",
+            "end_time": "2012-02-27 12:24:00"
+          },
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 12:25:00",
+            "end_time": "2012-02-27 13:12:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 13:13:00",
+            "end_time": "2012-02-27 13:19:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 13:20:00",
+            "end_time": "2012-02-27 14:07:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 14:08:00",
+            "end_time": "2012-02-27 14:14:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 14:15:00",
+            "end_time": "2012-02-27 15:02:00"
           }
-          
+        ]
+        
+      },
+      {
+        "key": "Wed",
+        "WeekDayTime": "2012-02-27 11:17:00",
+        "WeekDayTimeEnd": "2012-02-27 11:53:00",
+        "times": [
+          {
+            "period": 0,
+            "key": "zero_period",
+            "start_time": "2012-02-27 07:05:00",
+            "end_time": "2012-02-27 07:54:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 07:55:00",
+            "end_time": "2012-02-27 07:59:00"
+          },
+           {
+            "period": 4,
+            "key": "fourth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 09:29:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 08:48:00",
+            "end_time": "2012-02-27 08:54:00"
+          },
+          {
+            "period": 2,
+            "key": "second_period",
+            "start_time": "2012-02-27 08:55:00",
+            "end_time": "2012-02-27 09:42:00"
+          },
+          {
+            "period": 10,
+            "key": "break",
+            "start_time": "2012-02-27 09:43:00",
+            "end_time": "2012-02-27 09:52:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 09:53:00",
+            "end_time": "2012-02-27 09:59:00"
+          },
+          {
+            "period": 3,
+            "key": "third_period",
+            "start_time": "2012-02-27 10:00:00",
+            "end_time": "2012-02-27 10:47:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:48:00",
+            "end_time": "2012-02-27 10:54:00"
+          },
+          {
+            "period": 4,
+            "key": "forth_period",
+            "start_time": "2012-02-27 10:55:00",
+            "end_time": "2012-02-27 11:42:00"
+          },
+          {
+            "period": 11,
+            "key": "lunch",
+            "start_time": "2012-02-27 11:43:00",
+            "end_time": "2012-02-27 12:17:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 12:18:00",
+            "end_time": "2012-02-27 12:24:00"
+          },
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 12:25:00",
+            "end_time": "2012-02-27 13:12:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 13:13:00",
+            "end_time": "2012-02-27 13:19:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 13:20:00",
+            "end_time": "2012-02-27 14:07:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 14:08:00",
+            "end_time": "2012-02-27 14:14:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 14:15:00",
+            "end_time": "2012-02-27 15:02:00"
+          }
         ]
       }
       
         
       
-    }
+    ]
     
   
 }
