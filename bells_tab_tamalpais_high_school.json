@@ -1,0 +1,392 @@
+{
+   "school": "tamalpais_high_school",
+    "nsw": {
+      "monday": {
+        "title": "Monday",
+        "key": "monday_bells",
+        "times": [
+          {
+            "period": 1,
+            "color": "blue",
+            "key": "first_period",
+            "time": "8:00 - 8:40"
+          },
+          {
+            "period": 2,
+            "color": "blue",
+            "key": "second_period",
+            "time": "8:50 - 9:35"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:35 - 9:40"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "9:50 - 10:30"
+          },
+          {
+            "period": 4,
+            "color": "blue",
+            "key": "fourth_period",
+            "time": "10:40 -  11:20"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "11:20 - 11:55"
+          },
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "12:05 - 12:45"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "12:55 - 1:35"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "1:45 - 2:25"
+          }
+        ]
+      },
+      "tuesday": {
+        "title": "Tuesday",
+        "key": "tuesday_bells",
+        "times": [
+          {
+            "period": 1,
+            "color": "blue",
+            "key": "first_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:30 - 9:35"
+          },
+          {
+            "period": 2,
+            "color": "blue",
+            "key": "second_period",
+            "time": "9:45 - 11:20"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "11:20 - 12:00"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "12:10 - 1:40"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "1:40 - 1:45"
+          },
+          {
+            "period": 4,
+            "color": "blue",
+            "key": "fourth_period",
+            "time": "1:55 - 3:25"
+          }
+        ]
+      },
+      "wednesday": {
+        "title": "Wednesday",
+        "key": "wednesday_bells",
+        "times": [
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:30 - 9:35"
+          },
+          {
+            "period": 17,
+            "color": "redAccent",
+            "key": "tutorial",
+            "time": "9:45 - 10:45"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "10:55 - 12:25"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "12:25 - 1:05"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "1:15 - 2:45"
+          }
+        ]
+      },
+      "thursday": {
+        "title": "Thursday",
+        "key": "thursday_bells",
+        "times": [
+          {
+            "period": 1,
+            "color": "blue",
+            "key": "first_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:30 - 9:35"
+          },
+          {
+            "period": 2,
+            "color": "blue",
+            "key": "second_period",
+            "time": "9:45 - 11:20"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "11:20 - 12:00"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "12:10 - 1:40"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "1:40 - 1:45"
+          },
+          {
+            "period": 4,
+            "color": "blue",
+            "key": "fourth_period",
+            "time": "1:55 - 3:25"
+          }
+        ]
+      },
+      "friday": {
+        "title": "Friday",
+        "key": "friday_bells",
+        "times": [
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:30 - 9:35"
+          },
+          {
+            "period": 17,
+            "color": "redAccent",
+            "key": "tutorial",
+            "time": "9:45 - 10:45"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "10:55 - 12:25"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "12:25 - 1:05"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "1:15 - 2:45"
+          }
+        ]
+      }
+    },
+    "sd": [
+      {
+        "title": "Minimum Day",
+        "key": "minimum_day_bells",
+        "times": [
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "8:00 - 9:20"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "9:30 - 10:50"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "10:50 - 11:05"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "11:15 - 12:35"
+          }
+        ]
+      },
+      {
+        "title": "Feel Good Friday",
+        "key": "feel_good_friday_bells",
+        "times": [
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:30 - 9:35"
+          },
+          {
+            "period": 17,
+            "color": "redAccent",
+            "key": "tutorial",
+            "time": "9:45 - 10:25"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "10:35 - 12:05"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "12:05 -  1:05"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "1:15 - 2:45"
+          }
+        ]
+      },
+      {
+        "title": "Rally",
+        "key": "rally_bells",
+        "times": [
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "8:00 - 9:30"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "9:45 - 11:15"
+          },
+          {
+            "period": 14,
+            "color": "redAccent",
+            "key": "rally",
+            "time": "11:25 - 12:25"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "12:25 - 1:05"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "1:15 - 2:45"
+          }
+        ]
+      }
+    ],
+    "finals-fall": [
+      {
+        "title": "RALLY Thursday",
+        "key": "rally_thursday_bells"
+      },
+      {
+        "title": "ASSEMBLY Thursday",
+        "key": "assembly_thursday_bells"
+      },
+      {
+        "title": "Minimum Day",
+        "key": "minimum_day_bells"
+      },
+      {
+        "title": "Before or after Minimum Day",
+        "key": "b_o_a_minimum_day_bells"
+      }
+    ],
+    "finals-spring": [
+      {
+        "title": "RALLY Thursday",
+        "key": "rally_thursday_bells"
+      },
+      {
+        "title": "ASSEMBLY Thursday",
+        "key": "assembly_thursday_bells"
+      },
+      {
+        "title": "Minimum Day",
+        "key": "minimum_day_bells"
+      },
+      {
+        "title": "Before or after Minimum Day",
+        "key": "b_o_a_minimum_day_bells"
+      }
+    ]
+
+}
