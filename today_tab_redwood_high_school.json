@@ -1,6 +1,6 @@
 {
     "school": "redwood_high_school",
-    "times": [
+    "schedules": [
         {
         "key": "Mon",
         "WeekDayTime": "2012-02-27 11:43:00",
