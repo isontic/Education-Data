@@ -43,3 +43,12 @@ This is the list of all the schools currently supported or upcoming schools that
  - [ ] Today Tab Data (Last updated: 00/00/00) 
  - [ ] Bell Schedule Data (Last updated: 00/00/00) 
  - [ ] Teacher Data (Last updated: 00/00/00) 
+ 
+ ## San Andreas High School, Larkspur, California
+
+**Key**: san_andreas_high_school
+**Website**: https://www.tamdistrict.org/sanandreas
+
+ - [ ] Today Tab Data (Last updated: 00/00/00) 
+ - [ ] Bell Schedule Data (Last updated: 00/00/00) 
+ - [ ] Teacher Data (Last updated: 00/00/00) 
