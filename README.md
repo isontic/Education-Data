@@ -1,7 +1,7 @@
 
 # isontic Education JSON Data
 
-This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source exept for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
+This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
 ## Period int keys
 
@@ -33,7 +33,7 @@ This is the list of all the schools currently supported or upcoming schools that
 **Key**: tamalpais_high_school
 **Website**: https://www.tamdistrict.org/tamalpais
 
- - [ ] Today Tab Data (Last updated: 00/00/00)
+ - [ ] Today Tab Data (Last updated: 11/22/19)
  - [X] Bell Schedule Data (Last updated: 11/22/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
  - [ ] App Info (Last updated: 00/00/00)  
