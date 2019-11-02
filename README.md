@@ -1,4 +1,4 @@
-# # isontic Education JSON Data
+# isontic Education JSON Data
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source exept for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
