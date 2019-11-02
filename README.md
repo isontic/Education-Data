@@ -26,6 +26,7 @@ This is the list of all the schools currently supported or upcoming schools that
  - [ ] Today Tab Data (Last updated: 00/00/00) 
  - [X] Bell Schedule Data (Last updated: 11/22/19) 
  - [ ] Teacher Data (Last updated: 00/00/00) 
+ - [ ] App Info (Last updated: 00/00/00) 
 
 ## Tamalpais High School, Mill Valley, California
 
@@ -34,7 +35,8 @@ This is the list of all the schools currently supported or upcoming schools that
 
  - [ ] Today Tab Data (Last updated: 00/00/00) 
  - [ ] Bell Schedule Data (Last updated: 00/00/00) 
- - [ ] Teacher Data (Last updated: 00/00/00) 
+ - [ ] Teacher Data (Last updated: 00/00/00)
+ - [ ] App Info (Last updated: 00/00/00)  
 
 ## Sir Francis Drake High School, San Anselmo, California
 
@@ -43,7 +45,8 @@ This is the list of all the schools currently supported or upcoming schools that
 
  - [ ] Today Tab Data (Last updated: 00/00/00) 
  - [ ] Bell Schedule Data (Last updated: 00/00/00) 
- - [ ] Teacher Data (Last updated: 00/00/00) 
+ - [ ] Teacher Data (Last updated: 00/00/00)
+ - [ ] App Info (Last updated: 00/00/00)  
  
  ## San Andreas High School, Larkspur, California
 
@@ -52,4 +55,5 @@ This is the list of all the schools currently supported or upcoming schools that
 
  - [ ] Today Tab Data (Last updated: 00/00/00) 
  - [ ] Bell Schedule Data (Last updated: 00/00/00) 
- - [ ] Teacher Data (Last updated: 00/00/00) 
+ - [ ] Teacher Data (Last updated: 00/00/00)
+ - [ ] App Info (Last updated: 00/00/00)  
