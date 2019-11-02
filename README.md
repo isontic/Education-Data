@@ -34,7 +34,7 @@ This is the list of all the schools currently supported or upcoming schools that
 **Website**: https://www.tamdistrict.org/tamalpais
 
  - [ ] Today Tab Data (Last updated: 00/00/00) 
- - [ ] Bell Schedule Data (Last updated: 00/00/00) 
+ - [X] Bell Schedule Data (Last updated: 11/22/19) 
  - [ ] Teacher Data (Last updated: 00/00/00)
  - [ ] App Info (Last updated: 00/00/00)  
 
