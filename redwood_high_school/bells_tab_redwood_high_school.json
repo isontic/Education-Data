@@ -504,20 +504,178 @@
     ],
     "finals-fall": [
       {
-        "title": "RALLY Thursday",
-        "key": "rally_thursday_bells"
+        "title": "Regular Monday",
+        "key": "monday_finals-fall_bells",
+        "times": [
+          {
+            "period": 0,
+            "color": "blue",
+            "key": "zero_period",
+            "time": "7:05 - 7:55"
+          },
+          {
+            "period": 1,
+            "color": "blue",
+            "key": "first_period",
+            "time": "8:00 - 8:48"
+          },
+          {
+            "period": 2,
+            "color": "blue",
+            "key": "second_period",
+            "time": "8:55 - 9:43"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:43 - 9:53"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "10:00 - 10:48"
+          },
+          {
+            "period": 4,
+            "color": "blue",
+            "key": "fourth_period",
+            "time": "10:55 -  11:43"
+          },
+          {
+            "period": 11,
+            "color": "lightblue",
+            "key": "lunch",
+            "time": "11:43 - 12:18"
+          },
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "12:25 - 1:13"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "1:20 - 2:08"
+          },
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "2:15 - 3:03"
+          }
+        ]
       },
       {
-        "title": "ASSEMBLY Thursday",
-        "key": "assembly_thursday_bells"
+        "title": "Tuesday Finals",
+        "key": "tuesday_finals-fall_bells",
+        "times": [
+          {
+            "period": 7,
+            "color": "blue",
+            "key": "seventh_period",
+            "time": "8:00 - 10:00"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "10:00 - 10:25"
+          },
+          {
+            "period": 6,
+            "color": "blue",
+            "key": "sixth_period",
+            "time": "10:32 - 12:32"
+          }
+        ]
       },
       {
-        "title": "Minimum Day",
-        "key": "minimum_day_bells"
+        "title": "Wednesday Finals",
+        "key": "wednesday_finals-fall_bells",
+        "times": [
+          {
+            "period": 13,
+            "color": "redAccent",
+            "key": "smart",
+            "time": "8:00 - 9:00"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "9:00 - 9:10"
+          },
+          {
+            "period": 5,
+            "color": "blue",
+            "key": "fifth_period",
+            "time": "9:17 - 11:17"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "11:17 - 11:35"
+          },
+          {
+            "period": 13,
+            "color": "redAccent",
+            "key": "smart",
+            "time": "11:42 - 12:32"
+          }
+        ]
       },
       {
-        "title": "Before or after Minimum Day",
-        "key": "b_o_a_minimum_day_bells"
+        "title": "Thursday Finals",
+        "key": "thursday_finals-fall_bells",
+        "times": [
+          {
+            "period": 4,
+            "color": "blue",
+            "key": "forth_period",
+            "time": "8:00 - 10:00"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "10:00 - 10:25"
+          },
+          {
+            "period": 3,
+            "color": "blue",
+            "key": "third_period",
+            "time": "10:32 - 12:32"
+          }
+        ]
+      },
+      {
+        "title": "Friday Finals",
+        "key": "friday_finals-fall_bells",
+        "times": [
+          {
+            "period": 2,
+            "color": "blue",
+            "key": "second_period",
+            "time": "8:00 - 10:00"
+          },
+          {
+            "period": 10,
+            "color": "lightblue",
+            "key": "break",
+            "time": "10:00 - 10:25"
+          },
+          {
+            "period": 1,
+            "color": "blue",
+            "key": "first_period",
+            "time": "10:32 - 12:32"
+          }
+        ]
       }
     ],
     "finals-spring": [
