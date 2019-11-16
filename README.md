@@ -6,7 +6,7 @@ This repo has all the JSON files that are used in the **isontic Education** app.
 ## Period int keys
 
  - Period 10 = Break
- - Period 11 = lunch
+ - Period 11 = Lunch
  - Period 12 = Homeroom
  - Period 13 = Smart
  - Period 14 = Rally
@@ -23,7 +23,7 @@ This is the list of all the schools currently supported or upcoming schools that
 **Key**: redwood_high_school
 **Website**: http://redwood.org
 
- - [X] Today Tab Data (Last updated: 11/02/19)
+ - [X] Today Tab Data (Last updated: 11/16/19)
  - [X] Bell Schedule Data (Last updated: 11/02/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
  - [ ] App Info (Last updated: 00/00/00)
@@ -33,7 +33,7 @@ This is the list of all the schools currently supported or upcoming schools that
 **Key**: tamalpais_high_school
 **Website**: https://www.tamdistrict.org/tamalpais
 
- - [ ] Today Tab Data (Last updated: 11/02/19)
+ - [ ] Today Tab Data (Last updated: 11/16/19)
  - [X] Bell Schedule Data (Last updated: 11/02/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
  - [ ] App Info (Last updated: 00/00/00)  
