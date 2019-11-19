@@ -1,5 +1,5 @@
 
-# isontic Education JSON Data (EDdata) - Version 0.0.1
+# Education JSON Data (EDdata) - Version 0.0.1
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
@@ -17,6 +17,8 @@ This repo has all the JSON files that are used in the **isontic Education** app.
 # Schools
 
 This is the list of all the schools currently supported or upcoming schools that will be supported by the **isontic Education** app. Note: Not that some data for each school is incomplete complete. If all three check marks are checked the information for that school has been completely added. The dates of when the data has been last updated will be next to them.
+
+Your school not supported by the **isontic Education** app? Contact the team here: hello@isontic.com .
 
 ## Redwood High School, Larkspur, California
 
