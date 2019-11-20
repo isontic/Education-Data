@@ -222,7 +222,7 @@
           },
           {
             "period": 7,
-            "key": "sixth_period",
+            "key": "seventh_period",
             "start_time": "2012-02-27 13:15:00",
             "end_time": "2012-02-27 14:45:30"
           }
@@ -350,9 +350,171 @@
           },
           {
             "period": 7,
-            "key": "sixth_period",
+            "key": "seventh_period",
             "start_time": "2012-02-27 13:15:00",
             "end_time": "2012-02-27 14:45:30"
+          }
+        ]
+      },
+      {
+        "key": "MinDay",
+        "WeekDayTime": "2012-02-27 12:25:00",
+        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "hasLunch": false,
+        "times": [
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 09:20:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 09:20:00",
+            "end_time": "2012-02-27 09:30:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 09:30:00",
+            "end_time": "2012-02-27 10:50:00"
+          },
+          {
+            "period": 10,
+            "key": "break",
+            "start_time": "2012-02-27 10:50:00",
+            "end_time": "2012-02-27 11:05:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 11:05:00",
+            "end_time": "2012-02-27 11:15:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 11:15:00",
+            "end_time": "2012-02-27 12:35:00"
+          }
+        ]
+      },
+      {
+        "key": "FeelGoodFriday",
+        "WeekDayTime": "2012-02-27 12:25:00",
+        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "hasLunch": true,
+        "times": [
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 09:30:00"
+          },
+          {
+            "period": 10,
+            "key": "break",
+            "start_time": "2012-02-27 09:30:00",
+            "end_time": "2012-02-27 09:35:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 09:35:00",
+            "end_time": "2012-02-27 09:45:00"
+          },
+          {
+            "period": 17,
+            "key": "tutorial",
+            "start_time": "2012-02-27 09:45:00",
+            "end_time": "2012-02-27 10:25:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:25:00",
+            "end_time": "2012-02-27 10:35:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 10:35:00",
+            "end_time": "2012-02-27 12:05:00"
+          },
+          {
+            "period": 11,
+            "key": "lunch",
+            "start_time": "2012-02-27 12:05:00",
+            "end_time": "2012-02-27 13:05:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 13:05:00",
+            "end_time": "2012-02-27 13:15:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 13:15:00",
+            "end_time": "2012-02-27 14:45:00"
+          }
+        ]
+      },
+      {
+        "key": "Rally",
+        "WeekDayTime": "2012-02-27 12:25:00",
+        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "hasLunch": true,
+        "times": [
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 09:30:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 09:30:00",
+            "end_time": "2012-02-27 09:45:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 09:45:00",
+            "end_time": "2012-02-27 11:15:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 11:15:00",
+            "end_time": "2012-02-27 11:25:00"
+          },
+          {
+            "period": 14,
+            "key": "rally",
+            "start_time": "2012-02-27 11:25:00",
+            "end_time": "2012-02-27 12:25:00"
+          },
+          {
+            "period": 11,
+            "key": "lunch",
+            "start_time": "2012-02-27 12:25:00",
+            "end_time": "2012-02-27 13:05:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 13:05:00",
+            "end_time": "2012-02-27 13:15:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 13:15:00",
+            "end_time": "2012-02-27 14:45:00"
           }
         ]
       }
