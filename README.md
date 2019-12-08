@@ -18,7 +18,10 @@ Your school not supported by the **isontic Education** app? Contact the team her
  - Period 14 = Rally
  - Period 15 = Assembly
  - Period 16 = Passing Period
- - Period 17 = Tutorial
+ - Period 17 = Tutorial (tutorial)
+ - Period 18 = Tutorial 1 (tutorial_1)
+ - Period 19 = Tutorial 2 (tutorial_2)
+ - Period 20 = CREW (crew)
 
 ## Redwood High School, Larkspur, California
 
