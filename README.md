@@ -49,7 +49,7 @@ Your school not supported by the **isontic Education** app? Contact the team her
 **Website**: https://www.tamdistrict.org/drake
 
  - [ ] Today Tab Data (Last updated: 00/00/00)
- - [ ] Schedule Schedule Data (Last updated: 00/00/00)
+ - [X] Schedule Schedule Data (Last updated: 12/8/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
  - [ ] App Info (Last updated: 00/00/00)  
 
