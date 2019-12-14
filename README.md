@@ -31,7 +31,7 @@ Your school not supported by the **isontic Education** app? Contact the team her
  - [X] Today Tab Data (Last updated: 11/16/19)
  - [X] Schedule Tab Data (Last updated: 11/02/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
- - [ ] App Info (Last updated: 00/00/00)
+ - [X] App Info (Last updated: 12/14/19)
 
 ## Tamalpais High School, Mill Valley, California
 
@@ -41,7 +41,7 @@ Your school not supported by the **isontic Education** app? Contact the team her
  - [X] Today Tab Data (Last updated: 11/19/19)
  - [X] Schedule Schedule Data (Last updated: 11/19/19)
  - [ ] Teacher Data (Last updated: 00/00/00)
- - [ ] App Info (Last updated: 00/00/00)  
+ - [X] App Info (Last updated: 12/14/19)  
 
 ## Sir Francis Drake High School, San Anselmo, California
 
