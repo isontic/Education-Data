@@ -6,6 +6,7 @@
       "title": "Monday",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -116,6 +117,7 @@
       "key": "Tue",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -226,6 +228,7 @@
       "key": "Wed",
       "WeekDayTime": "2012-02-27 11:17:00",
       "WeekDayTimeEnd": "2012-02-27 11:53:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -299,6 +302,7 @@
       "key": "Thu",
       "WeekDayTime": "2012-02-27 12:17:00",
       "WeekDayTimeEnd": "2012-02-27 12:55:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -378,6 +382,7 @@
       "key": "Fri",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -487,6 +492,7 @@
       "key": "MinDay",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
+      "hasLunch": false;
       "times": [
         {
           "period": 0,
@@ -560,6 +566,7 @@
       "key": "BOADay",
       "WeekDayTime": "2012-02-27 12:19:00",
       "WeekDayTimeEnd": "2012-02-27 12:59:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -639,6 +646,7 @@
       "key": "RallyThu",
       "WeekDayTime": "2012-02-27 12:07:00",
       "WeekDayTimeEnd": "2012-02-27 12:52:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,
@@ -712,6 +720,7 @@
       "key": "AssemblyThu",
       "WeekDayTime": "2012-02-27 12:07:00",
       "WeekDayTimeEnd": "2012-02-27 12:52:00",
+      "hasLunch": true;
       "times": [
         {
           "period": 0,

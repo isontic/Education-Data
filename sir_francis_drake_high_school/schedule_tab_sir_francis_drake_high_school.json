@@ -29,12 +29,12 @@
     },
     "sd": [
         {
-            "title": "Minimum Day (S)",
+            "title": "Minimum Day S",
             "key": "minimum_day_s_bells",
             "todayKey": "MinDay"
         },
         {
-            "title": "Minimum Day (PD)",
+            "title": "Minimum Day PD",
             "key": "minimum_day_pd_bells",
             "todayKey": "MinDayPD"
         },

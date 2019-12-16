@@ -13,31 +13,31 @@
         },
         {
             "title": "Winter Break",
-            "dateTime": "2019-12-20T12:25:05.000Z",
+            "dateTime": "2019-12-20T13:10:05.000Z",
             "color": "lightBlueAccent",
             "icon": "⛄"
         },
         {
             "title": "Ski Week",
-            "dateTime": "2020-02-14T15:03:05.000Z",
+            "dateTime": "2020-02-14T13:55:05.000Z",
             "color": "lightBlueAccent",
             "icon": "⛷️"
         },
         {
             "title": "Spring Break",
-            "dateTime": "2020-04-03T15:03:05.000Z",
+            "dateTime": "2020-04-03T13:55:05.000Z",
             "color": "green",
             "icon": "🌼️"
         },
         {
             "title": "Summer",
-            "dateTime": "2020-06-11T12:32:05.000Z",
+            "dateTime": "2020-06-11T13:10:05.000Z",
             "color": "yellowAccent",
             "icon": "🌞"
         },
         {
             "title": "Graduation",
-            "dateTime": "2020-06-11T16:00:05.000Z",
+            "dateTime": "2020-06-12T12:00:05.000Z",
             "color": "purple",
             "icon": "🎓"
         }

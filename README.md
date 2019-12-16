@@ -1,5 +1,5 @@
 
-# Education Data (EDdata) - Version 0.1.2
+# Education Data (EDdata) - Version 0.2.0
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
@@ -28,37 +28,37 @@ Your school not supported by the **isontic Education** app? Contact the team her
 **Key**: redwood_high_school
 **Website**: http://redwood.org
 
- - [X] Today Tab Data (Last updated: 11/16/19)
- - [X] Schedule Tab Data (Last updated: 11/02/19)
- - [ ] Teacher Data (Last updated: 00/00/00)
- - [X] App Info (Last updated: 12/14/19)
+ - [X] Today Tab Data
+ - [X] Schedule Tab Data
+ - [ ] Teacher Data
+ - [X] App Info
 
 ## Tamalpais High School, Mill Valley, California
 
 **Key**: tamalpais_high_school
 **Website**: https://www.tamdistrict.org/tamalpais
 
- - [X] Today Tab Data (Last updated: 11/19/19)
- - [X] Schedule Schedule Data (Last updated: 11/19/19)
- - [ ] Teacher Data (Last updated: 00/00/00)
- - [X] App Info (Last updated: 12/14/19)  
+ - [X] Today Tab Data
+ - [X] Schedule Tab Data
+ - [ ] Teacher Data
+ - [X] App Info
 
 ## Sir Francis Drake High School, San Anselmo, California
 
 **Key**: sir_francis_drake_high_school
 **Website**: https://www.tamdistrict.org/drake
 
- - [ ] Today Tab Data (Last updated: 00/00/00)
- - [X] Schedule Schedule Data (Last updated: 12/8/19)
- - [ ] Teacher Data (Last updated: 00/00/00)
- - [ ] App Info (Last updated: 00/00/00)  
+ - [X] Today Tab Data
+ - [X] Schedule Tab Data
+ - [ ] Teacher Data
+ - [X] App Info
 
  ## San Andreas High School, Larkspur, California
 
 **Key**: san_andreas_high_school
 **Website**: https://www.tamdistrict.org/sanandreas
 
- - [ ] Today Tab Data (Last updated: 00/00/00)
- - [ ] Schedule Schedule Data (Last updated: 00/00/00)
- - [ ] Teacher Data (Last updated: 00/00/00)
- - [ ] App Info (Last updated: 00/00/00)  
+ - [ ] Today Tab Data
+ - [ ] Schedule Tab Data
+ - [ ] Teacher Data
+ - [ ] App Info
