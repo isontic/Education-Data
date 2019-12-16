@@ -6,7 +6,7 @@
       "title": "Monday",
       "WeekDayTime": "2012-02-27 12:10:00",
       "WeekDayTimeEnd": "2012-02-27 12:50:00",
-      "hasLunch": true;
+      "hasLunch": true,
       "times": [
         {
           "period": 2,
@@ -99,7 +99,7 @@
       "key": "Tue",
       "WeekDayTime": "2012-02-27 11:40:00",
       "WeekDayTimeEnd": "2012-02-27 12:20:00",
-      "hasLunch": true;
+      "hasLunch": true,
       "times": [
         {
           "period": 1,
@@ -155,7 +155,7 @@
       "key": "Wed",
       "WeekDayTime": "2012-02-27 11:40:00",
       "WeekDayTimeEnd": "2012-02-27 12:20:00",
-      "hasLunch": true;
+      "hasLunch": true,
       "times": [
         {
           "period": 2,
@@ -229,7 +229,7 @@
       "key": "Thu",
       "WeekDayTime": "2012-02-27 11:40:00",
       "WeekDayTimeEnd": "2012-02-27 12:20:00",
-      "hasLunch": true;
+      "hasLunch": true,
       "times": [
         {
           "period": 1,
@@ -285,7 +285,7 @@
       "key": "Fri",
       "WeekDayTime": "2012-02-27 11:40:00",
       "WeekDayTimeEnd": "2012-02-27 12:20:00",
-      "hasLunch": true;
+      "hasLunch": true,
       "times": [
         {
           "period": 2,
@@ -329,7 +329,7 @@
       "key": "MinDay",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
-      "hasLunch": false;
+      "hasLunch": false,
       "times": [
         {
           "period": 2,
@@ -367,7 +367,7 @@
       "key": "MinDayPD",
       "WeekDayTime": "2012-02-27 12:19:00",
       "WeekDayTimeEnd": "2012-02-27 12:59:00",
-      "hasLunch": false;
+      "hasLunch": false,
       "times": [
         {
           "period": 2,

@@ -5,7 +5,7 @@
         "key": "Mon",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 11:55:00",
-        "hasLunch": true;
+        "hasLunch": true,
         "times": [
            {
             "period": 1,
@@ -104,7 +104,7 @@
         "key": "Tue",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 12:00:00",
-        "hasLunch": true;
+        "hasLunch": true,
         "times": [
            {
             "period": 1,
@@ -173,7 +173,7 @@
         "key": "Wed",
         "WeekDayTime": "2012-02-27 12:25:00",
         "WeekDayTimeEnd": "2012-02-27 13:05:00",
-        "hasLunch": true;
+        "hasLunch": true,
         "times": [
            {
             "period": 5,
@@ -235,7 +235,7 @@
         "key": "Thu",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 12:00:00",
-        "hasLunch": true;
+        "hasLunch": true,
         "times": [
           {
             "period": 1,
@@ -303,7 +303,7 @@
         "key": "Fri",
         "WeekDayTime": "2012-02-27 12:25:00",
         "WeekDayTimeEnd": "2012-02-27 13:05:00",
-        "hasLunch": true;
+        "hasLunch": true,
         "times": [
           {
             "period": 5,

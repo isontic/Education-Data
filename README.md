@@ -1,5 +1,5 @@
 
-# Education Data (EDdata) - Version 0.2.0
+# Education Data (EDdata) - Version 0.2.1
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
