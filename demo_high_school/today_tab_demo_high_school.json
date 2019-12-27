@@ -1,5 +1,5 @@
 {
-  "school": "sir_francis_drake_high_school",
+  "school": "demo_high_school",
   "schedules": [
       {
       "key": "Monday",
@@ -360,44 +360,6 @@
           "key": "sixth_period",
           "start_time": "2012-02-27 11:30:00",
           "end_time": "2012-02-27 12:50:00"
-        }
-      ]
-    },
-    {
-      "key": "MinDayPD",
-      "WeekDayTime": "2012-02-27 12:19:00",
-      "WeekDayTimeEnd": "2012-02-27 12:59:00",
-      "hasLunch": false,
-      "times": [
-        {
-          "period": 2,
-          "key": "second_period",
-          "start_time": "2012-02-27 08:30:00",
-          "end_time": "2012-02-27 09:40:00"
-        },
-        {
-          "period": 16,
-          "key": "passing_period",
-          "start_time": "2012-02-27 09:40:00",
-          "end_time": "2012-02-27 09:55:00"
-        },
-         {
-          "period": 4,
-          "key": "fourth_period",
-          "start_time": "2012-02-27 09:55:00",
-          "end_time": "2012-02-27 11:05:00"
-        },
-        {
-          "period": 16,
-          "key": "passing_period",
-          "start_time": "2012-02-27 11:05:00",
-          "end_time": "2012-02-27 11:20:00"
-        },
-        {
-          "period": 6,
-          "key": "sixth_period",
-          "start_time": "2012-02-27 11:20:00",
-          "end_time": "2012-02-27 12:30:00"
         }
       ]
     },

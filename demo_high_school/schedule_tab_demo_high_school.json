@@ -1,5 +1,5 @@
 {
-    "school": "sir_francis_drake_high_school",
+    "school": "demo_high_school",
     "nsw": {
         "monday": {
             "title": "Monday",
@@ -32,11 +32,6 @@
             "title": "Minimum Day S",
             "key": "minimum_day_s_bells",
             "todayKey": "MinDay"
-        },
-        {
-            "title": "Minimum Day PD",
-            "key": "minimum_day_pd_bells",
-            "todayKey": "MinDayPD"
         },
         {
             "title": "Rally",

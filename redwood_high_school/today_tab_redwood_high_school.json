@@ -2,7 +2,7 @@
   "school": "redwood_high_school",
   "schedules": [
       {
-      "key": "Mon",
+      "key": "Monday",
       "title": "Monday",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
@@ -114,7 +114,7 @@
 
     },
     {
-      "key": "Tue",
+      "key": "Tuesday",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
       "hasLunch": true,
@@ -225,7 +225,7 @@
 
     },
     {
-      "key": "Wed",
+      "key": "Wednesday",
       "WeekDayTime": "2012-02-27 11:17:00",
       "WeekDayTimeEnd": "2012-02-27 11:53:00",
       "hasLunch": true,
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "key": "Thu",
+      "key": "Thursday",
       "WeekDayTime": "2012-02-27 12:17:00",
       "WeekDayTimeEnd": "2012-02-27 12:55:00",
       "hasLunch": true,
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "key": "Fri",
+      "key": "Friday",
       "WeekDayTime": "2012-02-27 11:43:00",
       "WeekDayTimeEnd": "2012-02-27 12:18:00",
       "hasLunch": true,

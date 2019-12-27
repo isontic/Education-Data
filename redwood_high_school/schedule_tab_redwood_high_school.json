@@ -4,27 +4,27 @@
      "monday": {
        "title": "Monday",
        "key": "monday_bells",
-       "todayKey": "Mon"
+       "todayKey": "Monday"
      },
      "tuesday": {
        "title": "Tuesday",
        "key": "tuesday_bells",
-       "todayKey": "Tue"
+       "todayKey": "Tuesday"
      },
      "wednesday": {
        "title": "Wednesday",
        "key": "wednesday_bells",
-       "todayKey": "Wed"
+       "todayKey": "Wednesday"
      },
      "thursday": {
        "title": "Thursday",
        "key": "thursday_bells",
-       "todayKey": "Thu"
+       "todayKey": "Thursday"
      },
      "friday": {
        "title": "Friday",
        "key": "friday_bells",
-       "todayKey": "Fri"
+       "todayKey": "Friday"
      }
    },
    "sd": [
@@ -78,20 +78,24 @@
    ],
    "finals-spring": [
      {
-       "title": "RALLY Thursday",
-       "key": "rally_thursday_bells"
+       "title": "Monday Finals",
+       "key": "monday_finals-spring_bells",
+       "todayKey": "monday-finals-spring"
      },
      {
-       "title": "ASSEMBLY Thursday",
-       "key": "assembly_thursday_bells"
+       "title": "Tuesday Finals",
+       "key": "tuesday_finals-spring_bells",
+       "todayKey": "tuesday-finals-spring"
      },
      {
-       "title": "Minimum Day",
-       "key": "minimum_day_bells"
+       "title": "Wednesday Finals",
+       "key": "wednesday_finals-spring_bells",
+       "todayKey": "wednesday-finals-spring"
      },
      {
-       "title": "Before or after Minimum Day",
-       "key": "b_o_a_minimum_day_bells"
+       "title": "Thursday Finals",
+       "key": "thursday_finals-spring_bells",
+       "todayKey": "thursday-finals-spring"
      }
    ]
 

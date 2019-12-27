@@ -2,7 +2,7 @@
     "school": "tamalpais_high_school",
     "schedules": [
         {
-        "key": "Mon",
+        "key": "Monday",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 11:55:00",
         "hasLunch": true,
@@ -101,7 +101,7 @@
 
       },
       {
-        "key": "Tue",
+        "key": "Tuesday",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 12:00:00",
         "hasLunch": true,
@@ -170,7 +170,7 @@
 
       },
       {
-        "key": "Wed",
+        "key": "Wednesday",
         "WeekDayTime": "2012-02-27 12:25:00",
         "WeekDayTimeEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
@@ -232,7 +232,7 @@
         ]
       },
       {
-        "key": "Thu",
+        "key": "Thursday",
         "WeekDayTime": "2012-02-27 11:20:00",
         "WeekDayTimeEnd": "2012-02-27 12:00:00",
         "hasLunch": true,
@@ -300,7 +300,7 @@
         ]
       },
       {
-        "key": "Fri",
+        "key": "Friday",
         "WeekDayTime": "2012-02-27 12:25:00",
         "WeekDayTimeEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
