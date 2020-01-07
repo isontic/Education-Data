@@ -1,8 +1,10 @@
 
-# Education Data (EDdata) - Version 0.2.2
+# Education Data
 ![issues](https://img.shields.io/github/issues/isontic/Education-Data)
 ![forks](https://img.shields.io/github/forks/isontic/Education-Data)
 ![stars](https://img.shields.io/github/stars/isontic/Education-Data)
+![version](https://img.shields.io/badge/version-V0.2.2-brightgreen)
+
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
