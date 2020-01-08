@@ -3,12 +3,12 @@
 ![issues](https://img.shields.io/github/issues/isontic/Education-Data)
 ![forks](https://img.shields.io/github/forks/isontic/Education-Data)
 ![stars](https://img.shields.io/github/stars/isontic/Education-Data)
-![version](https://img.shields.io/badge/version-V0.2.2-brightgreen)
+![version](https://img.shields.io/badge/version-V0.2.3-brightgreen)
 
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
 
-## How to contribute? 
+## How to contribute?
 
 There is many ways your can contribute to this project. One of the many ways you can help is keep the schedules and other infomation for each school updated, as we we add more and more schools it will get harder to keep all the information updated. Another way you can help out if you have some time is adding support for a new school. If you are intrested in doing this please contact hello@isontic.com or tag [@EliasDeuss](https://github.com/EliasDeuss) in your PR.
 
@@ -20,7 +20,7 @@ They file layout is pretty simple. Here is an example layout with the key demo_h
    + app_info_demo_high_school.json
    + schedule_tab_demo_high_school.json
    + today_tab_demo_high_school.json
-   + images (Folder - For youtube channel icon) 
+   + images (Folder - For youtube channel icon)
 
 ##  Schools
 
