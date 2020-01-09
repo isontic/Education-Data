@@ -29,7 +29,13 @@ This is the list of all the schools currently supported or upcoming schools that
 Your school not supported by the **isontic Education** app? Contact the team here: hello@isontic.com .
 
 ## Period int keys
-
+ - Period 1 = First Period (first_period)
+ - Period 2 = Second Period (second_period)
+ - Period 3 = Third Period (third_period)
+ - Period 4 = Fourth Period (fourth_period)
+ - Period 5 = Fifth Period (fifth_period)
+ - Period 6 = Sixth Period (sixth_period)
+ - Period 7 = Seventh Period (seventh_period)
  - Period 10 = Break (break)
  - Period 11 = Lunch (lunch)
  - Period 12 = Homeroom (homeroom)
