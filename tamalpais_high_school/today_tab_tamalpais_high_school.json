@@ -3,8 +3,8 @@
     "schedules": [
         {
         "key": "Monday",
-        "WeekDayTime": "2012-02-27 11:20:00",
-        "WeekDayTimeEnd": "2012-02-27 11:55:00",
+        "luchStart": "2012-02-27 11:20:00",
+        "lunchEnd": "2012-02-27 11:55:00",
         "hasLunch": true,
         "times": [
            {
@@ -102,8 +102,8 @@
       },
       {
         "key": "Tuesday",
-        "WeekDayTime": "2012-02-27 11:20:00",
-        "WeekDayTimeEnd": "2012-02-27 12:00:00",
+        "luchStart": "2012-02-27 11:20:00",
+        "lunchEnd": "2012-02-27 12:00:00",
         "hasLunch": true,
         "times": [
            {
@@ -171,8 +171,8 @@
       },
       {
         "key": "Wednesday",
-        "WeekDayTime": "2012-02-27 12:25:00",
-        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "luchStart": "2012-02-27 12:25:00",
+        "lunchEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
         "times": [
            {
@@ -233,8 +233,8 @@
       },
       {
         "key": "Thursday",
-        "WeekDayTime": "2012-02-27 11:20:00",
-        "WeekDayTimeEnd": "2012-02-27 12:00:00",
+        "luchStart": "2012-02-27 11:20:00",
+        "lunchEnd": "2012-02-27 12:00:00",
         "hasLunch": true,
         "times": [
           {
@@ -301,8 +301,8 @@
       },
       {
         "key": "Friday",
-        "WeekDayTime": "2012-02-27 12:25:00",
-        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "luchStart": "2012-02-27 12:25:00",
+        "lunchEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
         "times": [
           {
@@ -363,8 +363,8 @@
       },
       {
         "key": "MinDay",
-        "WeekDayTime": "2012-02-27 12:25:00",
-        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "luchStart": "2012-02-27 12:25:00",
+        "lunchEnd": "2012-02-27 13:05:00",
         "hasLunch": false,
         "times": [
           {
@@ -407,8 +407,8 @@
       },
       {
         "key": "FeelGoodFriday",
-        "WeekDayTime": "2012-02-27 12:25:00",
-        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "luchStart": "2012-02-27 12:25:00",
+        "lunchEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
         "times": [
           {
@@ -469,8 +469,8 @@
       },
       {
         "key": "Rally",
-        "WeekDayTime": "2012-02-27 12:25:00",
-        "WeekDayTimeEnd": "2012-02-27 13:05:00",
+        "luchStart": "2012-02-27 12:25:00",
+        "lunchEnd": "2012-02-27 13:05:00",
         "hasLunch": true,
         "times": [
           {
@@ -520,6 +520,182 @@
             "key": "seventh_period",
             "start_time": "2012-02-27 13:15:00",
             "end_time": "2012-02-27 14:45:00"
+          }
+        ]
+      },
+      {
+        "key": "monday-finals-spring",
+        "lunchStart": "2012-02-27 12:15:00",
+        "lunchEnd": "2012-02-27 12:50:00",
+        "hasLunch": true,
+        "times": [
+          {
+            "period": 1,
+            "key": "first_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 10:00:00"
+          },
+          {
+            "period": 10,
+            "key": "break",
+            "start_time": "2012-02-27 10:00:00",
+            "end_time": "2012-02-27 10:15:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:15:00",
+            "end_time": "2012-02-27 10:25:00"
+          },
+          {
+            "period": 2,
+            "key": "second_period",
+            "start_time": "2012-02-27 10:25:00",
+            "end_time": "2012-02-27 10:55:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:55:00",
+            "end_time": "2012-02-27 11:05:00"
+          },
+          {
+            "period": 3,
+            "key": "third_period",
+            "start_time": "2012-02-27 11:05:00",
+            "end_time": "2012-02-27 11:35:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 11:35:00",
+            "end_time": "2012-02-27 11:45:00"
+          },
+          {
+            "period": 4,
+            "key": "fourth_period",
+            "start_time": "2012-02-27 11:45:00",
+            "end_time": "2012-02-27 12:15:00"
+          },
+          {
+            "period": 11,
+            "key": "lunch",
+            "start_time": "2012-02-27 12:15:00",
+            "end_time": "2012-02-27 12:50:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 12:50:00",
+            "end_time": "2012-02-27 13:00:00"
+          },
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 13:00:00",
+            "end_time": "2012-02-27 13:30:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 13:30:00",
+            "end_time": "2012-02-27 13:40:00"
+          },
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 13:40:00",
+            "end_time": "2012-02-27 14:10:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 14:10:00",
+            "end_time": "2012-02-27 14:20:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 14:20:00",
+            "end_time": "2012-02-27 14:50:00"
+          }
+        ]
+      },
+      {
+        "key": "tuesday-finals-spring",
+        "lunchStart": "2012-02-27 12:15:00",
+        "lunchEnd": "2012-02-27 12:50:00",
+        "hasLunch": false,
+        "times": [
+          {
+            "period": 2,
+            "key": "second_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 10:00:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:00:00",
+            "end_time": "2012-02-27 10:15:00"
+          },
+          {
+            "period": 3,
+            "key": "third_period",
+            "start_time": "2012-02-27 10:15:00",
+            "end_time": "2012-02-27 12:25:00"
+          }
+        ]
+      },
+      {
+        "key": "wednesday-finals-spring",
+        "lunchStart": "2012-02-27 12:15:00",
+        "lunchEnd": "2012-02-27 12:50:00",
+        "hasLunch": false,
+        "times": [
+          {
+            "period": 4,
+            "key": "fourth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 10:00:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:00:00",
+            "end_time": "2012-02-27 10:15:00"
+          },
+          {
+            "period": 5,
+            "key": "fifth_period",
+            "start_time": "2012-02-27 10:15:00",
+            "end_time": "2012-02-27 12:25:00"
+          }
+        ]
+      },
+      {
+        "key": "thursday-finals-spring",
+        "lunchStart": "2012-02-27 12:15:00",
+        "lunchEnd": "2012-02-27 12:50:00",
+        "hasLunch": false,
+        "times": [
+          {
+            "period": 6,
+            "key": "sixth_period",
+            "start_time": "2012-02-27 08:00:00",
+            "end_time": "2012-02-27 10:00:00"
+          },
+          {
+            "period": 16,
+            "key": "passing_period",
+            "start_time": "2012-02-27 10:00:00",
+            "end_time": "2012-02-27 10:15:00"
+          },
+          {
+            "period": 7,
+            "key": "seventh_period",
+            "start_time": "2012-02-27 10:15:00",
+            "end_time": "2012-02-27 12:25:00"
           }
         ]
       }
