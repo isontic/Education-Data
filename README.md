@@ -3,7 +3,7 @@
 ![issues](https://img.shields.io/github/issues/isontic/Education-Data)
 ![forks](https://img.shields.io/github/forks/isontic/Education-Data)
 ![stars](https://img.shields.io/github/stars/isontic/Education-Data)
-![version](https://img.shields.io/badge/version-V0.2.3-brightgreen)
+![version](https://img.shields.io/badge/version-V0.2.4-brightgreen)
 
 
 This repo has all the JSON files that are used in the **isontic Education** app. All the data is open source except for the actual app code. We will try to keep the information as updated as we can but you can do a pull request and edit the information if you have any updates too it.
@@ -36,7 +36,7 @@ Your school not supported by the **isontic Education** app? Contact the team her
  - Period 5 = Fifth Period (fifth_period)
  - Period 6 = Sixth Period (sixth_period)
  - Period 7 = Seventh Period (seventh_period)
- 
+
  - Period 10 = Break (break)
  - Period 11 = Lunch (lunch)
  - Period 12 = Homeroom (homeroom)
