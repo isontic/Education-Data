@@ -36,6 +36,7 @@ Your school not supported by the **isontic Education** app? Contact the team her
  - Period 5 = Fifth Period (fifth_period)
  - Period 6 = Sixth Period (sixth_period)
  - Period 7 = Seventh Period (seventh_period)
+ 
  - Period 10 = Break (break)
  - Period 11 = Lunch (lunch)
  - Period 12 = Homeroom (homeroom)

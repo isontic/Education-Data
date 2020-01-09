@@ -4,8 +4,8 @@
       {
       "key": "Monday",
       "title": "Monday",
-      "WeekDayTime": "2012-02-27 12:10:00",
-      "WeekDayTimeEnd": "2012-02-27 12:50:00",
+      "lunchStart": "2012-02-27 12:10:00",
+      "lunchEnd": "2012-02-27 12:50:00",
       "hasLunch": true,
       "times": [
         {
@@ -97,8 +97,8 @@
     },
     {
       "key": "Tuesday",
-      "WeekDayTime": "2012-02-27 11:40:00",
-      "WeekDayTimeEnd": "2012-02-27 12:20:00",
+      "lunchStart": "2012-02-27 11:40:00",
+      "lunchEnd": "2012-02-27 12:20:00",
       "hasLunch": true,
       "times": [
         {
@@ -153,8 +153,8 @@
     },
     {
       "key": "Wednesday",
-      "WeekDayTime": "2012-02-27 11:40:00",
-      "WeekDayTimeEnd": "2012-02-27 12:20:00",
+      "lunchStart": "2012-02-27 11:40:00",
+      "lunchEnd": "2012-02-27 12:20:00",
       "hasLunch": true,
       "times": [
         {
@@ -227,8 +227,8 @@
     },
     {
       "key": "Thursday",
-      "WeekDayTime": "2012-02-27 11:40:00",
-      "WeekDayTimeEnd": "2012-02-27 12:20:00",
+      "lunchStart": "2012-02-27 11:40:00",
+      "lunchEnd": "2012-02-27 12:20:00",
       "hasLunch": true,
       "times": [
         {
@@ -283,8 +283,8 @@
     },
     {
       "key": "Friday",
-      "WeekDayTime": "2012-02-27 11:40:00",
-      "WeekDayTimeEnd": "2012-02-27 12:20:00",
+      "lunchStart": "2012-02-27 11:40:00",
+      "lunchEnd": "2012-02-27 12:20:00",
       "hasLunch": true,
       "times": [
         {
@@ -327,8 +327,8 @@
     },
     {
       "key": "MinDay",
-      "WeekDayTime": "2012-02-27 11:43:00",
-      "WeekDayTimeEnd": "2012-02-27 12:18:00",
+      "lunchStart": "2012-02-27 11:43:00",
+      "lunchEnd": "2012-02-27 12:18:00",
       "hasLunch": false,
       "times": [
         {
@@ -365,8 +365,8 @@
     },
     {
       "key": "MinDayPD",
-      "WeekDayTime": "2012-02-27 12:19:00",
-      "WeekDayTimeEnd": "2012-02-27 12:59:00",
+      "lunchStart": "2012-02-27 12:19:00",
+      "lunchEnd": "2012-02-27 12:59:00",
       "hasLunch": false,
       "times": [
         {
@@ -403,8 +403,8 @@
     },
     {
       "key": "Rally",
-      "WeekDayTime": "2012-02-27 12:07:00",
-      "WeekDayTimeEnd": "2012-02-27 12:52:00",
+      "lunchStart": "2012-02-27 12:07:00",
+      "lunchEnd": "2012-02-27 12:52:00",
       "hasLunch": false,
       "times": [
         {
@@ -459,8 +459,8 @@
     },
     {
       "key": "monday-finals-spring",
-      "WeekDayTime": "2012-02-27 12:10:00",
-      "WeekDayTimeEnd": "2012-02-27 12:50:00",
+      "lunchStart": "2012-02-27 12:10:00",
+      "lunchEnd": "2012-02-27 12:50:00",
       "hasLunch": true,
       "times": [
         {
@@ -557,8 +557,8 @@
     },
     {
       "key": "tuesday-finals-spring",
-      "WeekDayTime": "2012-02-27 12:10:00",
-      "WeekDayTimeEnd": "2012-02-27 12:50:00",
+      "lunchStart": "2012-02-27 12:10:00",
+      "lunchEnd": "2012-02-27 12:50:00",
       "hasLunch": false,
       "times": [
         {
@@ -590,8 +590,8 @@
     },
     {
       "key": "wednesday-finals-spring",
-      "WeekDayTime": "2012-02-27 12:10:00",
-      "WeekDayTimeEnd": "2012-02-27 12:50:00",
+      "lunchStart": "2012-02-27 12:10:00",
+      "lunchEnd": "2012-02-27 12:50:00",
       "hasLunch": false,
       "times": [
         {
@@ -622,8 +622,8 @@
     },
     {
       "key": "thursday-finals-spring",
-      "WeekDayTime": "2012-02-27 12:10:00",
-      "WeekDayTimeEnd": "2012-02-27 12:50:00",
+      "lunchStart": "2012-02-27 12:10:00",
+      "lunchEnd": "2012-02-27 12:50:00",
       "hasLunch": false,
       "times": [
         {
