@@ -1,5 +1,5 @@
 
-# Education Data
+# iEducation Data
 ![version](https://img.shields.io/badge/version-V0.2.4-brightgreen)
 
 ## File Layout and School Example
