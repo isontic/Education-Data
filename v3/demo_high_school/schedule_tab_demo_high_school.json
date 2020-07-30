@@ -1,0 +1,86 @@
+{
+    "school": "demo_high_school",
+    "nsw": {
+        "monday": {
+            "title": "Monday",
+            "key": "monday_bells",
+            "todayKey": "Monday"
+        },
+        "tuesday": {
+            "title": "Tuesday",
+            "key": "tuesday_bells",
+            "todayKey": "Tuesday"
+        },
+        "wednesday": {
+            "title": "Wednesday",
+            "key": "wednesday_bells",
+            "todayKey": "Wednesday"
+        },
+        "thursday": {
+            "title": "Thursday",
+            "key": "thursday_bells",
+            "todayKey": "Thursday"
+        },
+        "friday": {
+            "title": "Friday",
+            "key": "friday_bells",
+            "todayKey": "Friday"
+        }
+    },
+    "sd": [
+        {
+            "title": "Minimum Day S",
+            "key": "minimum_day_s_bells",
+            "todayKey": "MinDay"
+        },
+        {
+            "title": "Rally",
+            "key": "rally_bells",
+            "todayKey": "Rally"
+        }
+    ],
+    "finals-fall": [
+        {
+            "title": "Monday Finals",
+            "key": "monday_finals-spring_bells",
+            "todayKey": "monday-finals-spring"
+          },
+          {
+            "title": "Tuesday Finals",
+            "key": "tuesday_finals-spring_bells",
+            "todayKey": "tuesday-finals-spring"
+          },
+          {
+            "title": "Wednesday Finals",
+            "key": "wednesday_finals-spring_bells",
+            "todayKey": "wednesday-finals-spring"
+          },
+          {
+            "title": "Thursday Finals",
+            "key": "thursday_finals-spring_bells",
+            "todayKey": "thursday-finals-spring"
+          }
+    ],
+    "finals-spring": [
+        {
+            "title": "Monday Finals",
+            "key": "monday_finals-spring_bells",
+            "todayKey": "monday-finals-spring"
+          },
+          {
+            "title": "Tuesday Finals",
+            "key": "tuesday_finals-spring_bells",
+            "todayKey": "tuesday-finals-spring"
+          },
+          {
+            "title": "Wednesday Finals",
+            "key": "wednesday_finals-spring_bells",
+            "todayKey": "wednesday-finals-spring"
+          },
+          {
+            "title": "Thursday Finals",
+            "key": "thursday_finals-spring_bells",
+            "todayKey": "thursday-finals-spring"
+          }
+    ]
+}

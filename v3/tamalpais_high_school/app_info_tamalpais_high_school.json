@@ -1,11 +1,11 @@
 {
-    "school": "sir_francis_drake_high_school",
-    "youtube_channel_id": "null",
-    "youtube_channel_name": "null",
-    "youtube_channel_photo": "null",
-    "tv_bio": "null",
-    "summerbreak-start": "2020-06-11T13:10:05.000",
-    "summerbreak-end": "2020-08-19T15:03:05.000",
+    "school": "tamalpais_high_school",
+    "youtube_channel_id": "UCWpmCf_RHNfP_ps51pWjJqg",
+    "youtube_channel_name": "Hawk Talk",
+    "youtube_channel_photo": "hawk_talk_icon.jpg",
+    "tv_bio": "Tamalpais High School's announcement show, Hawk Talk",
+    "summerbreak-start": "2020-06-11T12:25:05.000",
+    "summerbreak-end": "2020-08-14T15:03:05.000",
     "winterbreak-start": "2019-12-20T13:10:05.000",
     "winterbreak-end": "2020-01-08T00:00:05.000",
     "countdowns": [
@@ -17,31 +17,31 @@
         },
         {
             "title": "Winter Break",
-            "dateTime": "2019-12-20T13:10:05.000",
+            "dateTime": "2019-12-20T12:25:05.000",
             "color": "lightBlueAccent",
             "icon": "⛄"
         },
         {
             "title": "Ski Week",
-            "dateTime": "2020-02-14T13:55:05.000",
+            "dateTime": "2020-02-14T15:03:05.000",
             "color": "lightBlueAccent",
             "icon": "⛷️"
         },
         {
             "title": "Spring Break",
-            "dateTime": "2020-04-03T13:55:05.000",
+            "dateTime": "2020-04-03T15:15:05.000",
             "color": "green",
             "icon": "🌼️"
         },
         {
             "title": "Summer",
-            "dateTime": "2020-06-11T13:10:05.000",
+            "dateTime": "2020-06-11T12:25:05.000",
             "color": "yellowAccent",
             "icon": "🌞"
         },
         {
             "title": "Graduation",
-            "dateTime": "2020-06-12T12:00:05.000",
+            "dateTime": "2020-06-11T16:00:05.000",
             "color": "purple",
             "icon": "🎓"
         }

@@ -1,0 +1,97 @@
+{
+   "school": "tamalpais_high_school",
+    "nsw": {
+      "monday": {
+        "title": "Monday",
+        "key": "monday_bells",
+        "todayKey": "Monday"
+      },
+      "tuesday": {
+        "title": "Tuesday",
+        "key": "tuesday_bells",
+        "todayKey": "Tuesday"
+      },
+      "wednesday": {
+        "title": "Wednesday",
+        "key": "wednesday_bells",
+        "todayKey": "Wednesday"
+      },
+      "thursday": {
+        "title": "Thursday",
+        "key": "thursday_bells",
+        "todayKey": "Thursday"
+      },
+      "friday": {
+        "title": "Friday",
+        "key": "friday_bells",
+        "todayKey": "Friday"
+      }
+    },
+    "sd": [
+      {
+        "title": "Minimum Day",
+        "key": "minimum_day_bells",
+        "todayKey": "MinDay"
+      },
+      {
+        "title": "Feel Good Friday",
+        "key": "feel_good_friday_bells",
+        "todayKey": "FeelGoodFriday"
+      },
+      {
+        "title": "Rally",
+        "key": "rally_bells",
+        "todayKey": "Rally"
+      }
+    ],
+    "finals-fall": [
+      {
+        "title": "Monday",
+        "key": "monday_finals-fall",
+        "todayKey": "monday-finals-fall"
+      },
+      {
+        "title": "Tuesday",
+        "key": "tuesday_finals-fall",
+        "todayKey": "tuesday-finals-fall"
+      },
+      {
+        "title": "Wednesday",
+        "key": "wednesday_finals-fall",
+        "todayKey": "wednesday-finals-fall"
+      },
+      {
+        "title": "Thursday",
+        "key": "thursday_finals-fall",
+        "todayKey": "thursday-finals-fall"
+      },
+      {
+        "title": "Friday",
+        "key": "friday_finals-fall",
+        "todayKey": "friday-finals-fall"
+      }
+    ],
+    "finals-spring": [
+      {
+        "title": "Monday Finals",
+        "key": "monday_finals-spring_bells",
+        "todayKey": "monday-finals-spring"
+      },
+      {
+        "title": "Tuesday Finals",
+        "key": "tuesday_finals-spring_bells",
+        "todayKey": "tuesday-finals-spring"
+      },
+      {
+        "title": "Wednesday Finals",
+        "key": "wednesday_finals-spring_bells",
+        "todayKey": "wednesday-finals-spring"
+      },
+      {
+        "title": "Thursday Finals",
+        "key": "thursday_finals-spring_bells",
+        "todayKey": "thursday-finals-spring"
+      }
+    ]
+
+}

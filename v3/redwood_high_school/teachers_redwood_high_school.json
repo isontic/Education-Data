@@ -1,0 +1,128 @@
+{
+   "school": "redwood_high_school",
+   "lastUpdated": "10/28/2019",
+    "teachers": [
+      {
+        "name": "Emily Adams",
+        "email": "eadams@tamdistrict.org",
+        "department": "Science",
+        "website": "https://www.tamdistrict.org/adams"
+      },
+      {
+        "name": "Allan, Fiona",
+        "email": "fallan@tamdistrict.org",
+        "department": "English",
+        "website": "https://www.tamdistrict.org/page/4093"
+      },
+      {
+        "name": "Alsina, Anna",
+        "email": "aalsina@tamdistrict.org",
+        "department": "World Languages",
+        "website": "https://www.tamdistrict.org/Alsina"
+      },
+      {
+        "name": "Aparicio, Alberto",
+        "email": "aaparicio@tamdistrict.org",
+        "department": "World Languages",
+        "website": "https://www.tamdistrict.org/aaparicio"
+      },
+      {
+        "name": "Bartone, Lauren",
+        "email": "lbartone@tamdistrict.org",
+        "department": "Fine Arts",
+        "website": "http://www.redwoodvisualarts.org"
+      },
+      {
+        "name": "Baxt, Amy",
+        "email": "abaxt@tamdistrict.org",
+        "department": "Drama",
+        "website": "https://www.tamdistrict.org/baxt"
+      },
+      {
+        "name": "Benjamin, Amy",
+        "email": "abenjamin@tamdistrict.org",
+        "department": "Mathematics",
+        "website": "https://www.tamdistrict.org/Benjamin"
+      },
+      {
+        "name": "Berkowitz, Erik",
+        "email": "eberkowitz@tamdistrict.org",
+        "department": "Drama",
+        "website": "null"
+      },
+      {
+        "name": "Blaber, John",
+        "email": "jblaber@tamdistrict.org",
+        "department": "English",
+        "website": "https://www.tamdistrict.org/blaber"
+      },
+      {
+        "name": "Boles, Melissa",
+        "email": "mboles@tamdistrict.org",
+        "department": "Science",
+        "website": "https://www.tamdistrict.org/boles"
+      },
+      {
+        "name": "Brown, Ted",
+        "email": "tbrown@tamdistrict.org",
+        "department": "Social Studies",
+        "website": "http://rhsweb.org/assignments/brown/"
+      },
+      {
+        "name": "Butkevich, Nickolai",
+        "email": "nbutkevich@tamdistrict.org",
+        "department": "Social Studies",
+        "website": "http://butkevich.weebly.com"
+      },
+      {
+        "name": "Bradford, Butler",
+        "email": "bbutler@tamdistrict.org",
+        "department": "Fine Arts",
+        "website": "null"
+      },
+      {
+        "name": "Civano, Maria Fernanda",
+        "email": "mcivano@tamdistrict.org",
+        "department": "World Languages",
+        "website": "https://www.tamdistrict.org/Civano"
+      },
+      {
+        "name": "Cochrane, Kim",
+        "email": "kcochrane@tamdistrict.org",
+        "department": "Special Education",
+        "website": "null"
+      },
+      {
+        "name": "Cohen, Mitch",
+        "email": "mcohen@tamdistrict.org",
+        "department": "Science",
+        "website": "https://www.tamdistrict.org/cohen"
+      },
+      {
+        "name": "Crabtree, Jessica",
+        "email": "jcrabtree@tamdistrict.org",
+        "department": "Mathematics",
+        "website": "https://www.tamdistrict.org/page/1662"
+      },
+      {
+        "name": "Crabtree, William",
+        "email": "wcrabtree@tamdistrict.org",
+        "department": "Applied Technology",
+        "website": "null"
+      },
+      {
+        "name": "Curtaz, Heather",
+        "email": "hcurtaz@tamdistrict.org",
+        "department": "Mathematics",
+        "website": "null"
+      },
+      {
+        "name": "Dahl, Maryanne",
+        "email": "mdahl@tamdistrict.org",
+        "department": "Special Education",
+        "website": "null"
+      }
+
+
+    ]
+}
